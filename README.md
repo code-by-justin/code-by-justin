@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**code-by-justin/code-by-justin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technology professional with a diverse background spanning **Systems Administration**, **DevOps Engineering**, and now specializing as a **Security Engineer**.
 
-Here are some ideas to get you started:
+### 🔭 Currently Focused On
+- Hack The Box certifications to sharpen my cybersecurity skills
+- Learning Palo Alto XSIAM and SOAR platforms
+- Security automation and orchestration solutions
+- Advanced threat detection and response
+- Cloud security best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 Looking to Collaborate
+- Open to collaborating with other security professionals
+- Interested in security automation projects
+- Always eager to share knowledge and learn from the community
+
+### 📫 How to Reach Me
+Contact information can be found on my GitHub profile.
+
+### 🛡️ Security Focus Areas
+- Incident Response & Threat Hunting
+- Security Automation & Orchestration
+- Infrastructure Security
+- DevSecOps Implementation
+
+---
